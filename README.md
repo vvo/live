@@ -10,8 +10,8 @@ A location where individuals can come together and watch a few people stream the
 
 ## Links
 
-Twitch: https://twitch.tv/me8bot
-Youtube: https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ
-GitHub: https://github.com/mutual/live
-Site: https://mutualfun.io
-Twitter: https://twitter.com/bdougieYO
+- Twitch: https://twitch.tv/me8bot
+- Youtube: https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ
+- GitHub: https://github.com/mutual/live
+- Site: https://mutualfun.io
+- Twitter: https://twitter.com/bdougieYO
