@@ -2,6 +2,15 @@
 
 A location where individuals can come together and watch a few people stream their code. 
 
+## Schedule
+|Day|Time| Topic |
+|-|-|
+|Monday|10:15 am PT|Live Code & Chat|
+|Wednesday|8:15 am PT| Live Code & Chat|
+|Friday|9am PT| Live Code & Chat (w/ guest)|
+|Friday|2:30 pm PT| Q & A|
+
+
 ## Plan for the future. 
 
 1. Invite others to live code with @bdougie
