@@ -2,7 +2,7 @@
 name: Scheduled Stream
 about: This is a template to quickly get a shareable stream agenda
 title: _DATE_ Scheduled Stream
-labels: ''
+labels: 'scheduled-stream'
 assignees: bdougie
 
 ---
