@@ -10,7 +10,7 @@ assignees: bdougie
 # _DATE_ - Run-of-show
 
 CTA: 
-- Star and Watch the [MutualFun/live](https://github.com/MutualFun/live/) repo. 
+- Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo. 
 
 
 Agenda
