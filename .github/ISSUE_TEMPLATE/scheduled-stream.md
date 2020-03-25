@@ -1,0 +1,36 @@
+---
+name: Scheduled Stream
+about: This is a template to quickly get a shareable stream agenda
+title: _DATE_ Scheduled Stream
+labels: ''
+assignees: bdougie
+
+---
+
+# _DATE_ - Run-of-show
+
+CTA: 
+- Star and Watch the [MutualFun/live](https://github.com/MutualFun/live/) repo. 
+
+
+Agenda
+1. Promote CTA
+2. Write some code
+3. Chat a bit
+
+
+Sample Tweet:
+
+Live now! with _TOPIC_GOES_HERE_ 
+
+Twitch: https://twitch.tv/me8bot
+Youtube: https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ
+GitHub: https://github.com/MutualFun/live/issues/_NUM_
+Site: https://mutualfun.io
+
+## Relevant Links
+- https://www.twitch.tv/popout/me8bot/chat
+- https://twitter.com/bdougieyo
+- https://github.com/bdougie/live
+- https://mutualfun.io
+- [Music playlist](https://open.spotify.com/playlist/1fm7mdOoADMy0508dlNbGE)
