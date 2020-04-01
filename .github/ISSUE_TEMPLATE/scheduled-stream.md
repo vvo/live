@@ -12,6 +12,10 @@ assignees: bdougie
 CTA: 
 - Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo. 
 
+Checklist: 
+- [ ] Check Mic level
+- [ ] Check Social content
+- [ ] Check GitHub Dashboard
 
 Agenda
 1. Promote CTA
