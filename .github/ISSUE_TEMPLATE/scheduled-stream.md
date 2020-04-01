@@ -33,4 +33,4 @@ Site: https://mutualfun.io
 - https://twitter.com/bdougieyo
 - https://github.com/bdougie/live
 - https://mutualfun.io
-- [Music playlist](https://open.spotify.com/playlist/1fm7mdOoADMy0508dlNbGE)
+- [Spotify Music playlist](https://open.spotify.com/playlist/7zrrIjhj4DuiVC9D6MRVMZ?si=S0QGUYxZTmC278Qw_jMwZg)
