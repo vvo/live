@@ -26,12 +26,14 @@ Agenda
 
 Sample Tweet:
 
+```
 Live now! with _TOPIC_GOES_HERE_ 
 
 Twitch: https://twitch.tv/me8bot
 Youtube: https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ
 GitHub: https://github.com/MutualFun/live/issues/_NUM_
 Site: https://mutualfun.io
+```
 
 ## Relevant Links
 
