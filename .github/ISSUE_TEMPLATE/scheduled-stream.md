@@ -1,13 +1,13 @@
 ---
 name: Scheduled Stream
 about: This is a template to quickly get a shareable stream agenda
-title: _DATE_ Scheduled Stream
+title: _DATE_ _TIME_ Scheduled Stream
 labels: 'scheduled-stream'
 assignees: bdougie
 
 ---
 
-Run-of-show
+GOAL: _TOPIC_
 
 Reminder: 
 - Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates. 
@@ -19,7 +19,7 @@ Checklist:
 - [ ] Turn off notifications/phone
 
 Agenda
-1. Promote CTA
+1. Join the chat and say hi. 
 2. Write some code
 3. Chat a bit
 
