@@ -7,15 +7,16 @@ assignees: bdougie
 
 ---
 
-# _DATE_ - Run-of-show
+Run-of-show
 
-CTA: 
-- Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo. 
+Reminder: 
+- Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates. 
 
 Checklist: 
 - [ ] Check Mic level
 - [ ] Check Social content
 - [ ] Check GitHub Dashboard
+- [ ] Turn off notifications/phone
 
 Agenda
 1. Promote CTA
