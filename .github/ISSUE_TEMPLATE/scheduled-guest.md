@@ -1,6 +1,6 @@
 ---
 name: Scheduled Stream w/Guest
-about: This is a template to quickly get a shareable stream agenda
+about: This is a template to quickly get a shareable agenda for guest streams
 title: _DATE_ _TIME_ Scheduled Stream w/_guest_
 labels: 'scheduled-stream'
 assignees: bdougie
