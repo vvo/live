@@ -34,6 +34,7 @@ GitHub: https://github.com/MutualFun/live/issues/_NUM_
 Site: https://mutualfun.io
 
 ## Relevant Links
+
 - https://www.twitch.tv/popout/me8bot/chat
 - https://twitter.com/bdougieyo
 - https://github.com/bdougie/live
