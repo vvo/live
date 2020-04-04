@@ -7,27 +7,27 @@ assignees: bdougie
 
 ---
 
-GOAL: _TOPIC_ 
+## _TOPIC_ 
 
-Checklist: 
+**Checklist:** 
 - [ ] Check Mic level
 - [ ] Check Social content
 - [ ] Check GitHub Dashboard
 - [ ] Turn off notifications/phone
 
-Intro: Time for MutualFun
+**Intro:** Time for MutualFun
 
-Reminder: 
+**Reminder:** 
 - Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates.
 
-Agenda
+**Agenda:**
 1. Join the chat and say hi. 
 2. Write some code
 3. Chat a bit
 
-Outro: Thanks and this has been MutualFun
+**Outro:** Thanks and this has been MutualFun
 
-Sample Tweet:
+**Sample Tweet:**
 
 ```
 Live now! with _TOPIC_GOES_HERE_ 
