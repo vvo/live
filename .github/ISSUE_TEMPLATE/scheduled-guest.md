@@ -7,9 +7,9 @@ assignees: bdougie
 
 ---
 
-GOAL: _TOPIC_
+## _TOPIC_
 
-Checklist: 
+**Checklist:** 
 - [ ] Check Mic level (record audio test to confirm)
 - [ ] Check Social content
 - [ ] Guest check-in
@@ -17,19 +17,20 @@ Checklist:
 - [ ] Turn off notifications/phone
 - [ ] Hit record on backup audio
 
-Intro: Time for MutualFun
 
-Reminder: 
+**Intro:** Time for MutualFun
+
+**Reminder:** 
 - Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates. 
 
-Agenda
+**Agenda:**
 1. Join the chat and say hi. 
 2. Write some code
 3. Chat a bit
 
-Outro: Thanks and this has been MutualFun
+**Outro:** Thanks and this has been MutualFun
 
-Sample Tweet:
+**Sample Tweet:**
 
 ```
 Live now! with _TOPIC_GOES_HERE_ 
