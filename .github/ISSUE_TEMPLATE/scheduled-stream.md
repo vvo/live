@@ -7,10 +7,7 @@ assignees: bdougie
 
 ---
 
-GOAL: _TOPIC_
-
-Reminder: 
-- Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates. 
+GOAL: _TOPIC_ 
 
 Checklist: 
 - [ ] Check Mic level
@@ -18,11 +15,17 @@ Checklist:
 - [ ] Check GitHub Dashboard
 - [ ] Turn off notifications/phone
 
+Intro: Time for MutualFun
+
+Reminder: 
+- Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates.
+
 Agenda
 1. Join the chat and say hi. 
 2. Write some code
 3. Chat a bit
 
+Outro: Thanks and this has been MutualFun
 
 Sample Tweet:
 
