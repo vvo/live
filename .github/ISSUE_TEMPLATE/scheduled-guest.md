@@ -1,39 +1,26 @@
 ---
 name: Scheduled Stream w/Guest
 about: This is a template to quickly get a shareable agenda for guest streams
-title: _DATE_ _TIME_ Scheduled Stream w/_guest_
+title: _ISSUE_NUMBER_: _TOPIC_ w/_HANDLE_
 labels: 'scheduled-stream'
 assignees: bdougie
 
 ---
+## Scheduled Stream
 
-## _TOPIC_
+_DAY_ _CAL_DATE_ _TIME_ UTC-7
 
-**Checklist:** 
-- [ ] Check Mic level (record audio test to confirm)
-- [ ] Check Social content
-- [ ] Guest check-in
-- [ ] Check GitHub Dashboard
-- [ ] Turn off notifications/phone
-- [ ] Hit record on backup audio
-
-
-**Intro:** Time for MutualFun
+**Agenda:**
+1. Intro Guest
+1.
 
 **Reminder:** 
 - Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates. 
 
-**Agenda:**
-1. Join the chat and say hi. 
-2. Write some code
-3. Chat a bit
-
-**Outro:** Thanks and this has been MutualFun
-
 **Sample Tweet:**
 
 ```
-Live now! with _TOPIC_GOES_HERE_ 
+Live now! _TOPIC_GOES_HERE_ 
 
 Twitch: https://twitch.tv/me8bot
 Youtube: https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ
