@@ -8,6 +8,7 @@ assignees: bdougie
 ---
 
 ## Scheduled Stream
+
 _DAY_ _CAL_DATE_ _TIME_ UTC-7
 
 **Agenda:**
