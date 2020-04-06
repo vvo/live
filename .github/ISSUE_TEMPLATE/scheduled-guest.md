@@ -8,19 +8,19 @@ assignees: bdougie
 ---
 ## Scheduled Stream
 
-_DAY_ _CAL_DATE_ _TIME_ UTC-7
+_DATE_ _FULL_DATE_ _TIME_ UTC-7
 
 **Agenda:**
 1. Intro Guest
 1.
 
 **Reminder:** 
-- Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates. 
+- Star and Watch the [mutualfun/live](https://github.com/mutualfun/live/) repo for updates. 
 
 **Sample Tweet:**
 
 ```
-Live now! _TOPIC_GOES_HERE_ 
+MutualFun Live! {{ ISSUE_TITLE }} 
 
 Twitch: https://twitch.tv/me8bot
 Youtube: https://www.youtube.com/channel/UCklWxKrTti61ZCROE1e5-MQ
