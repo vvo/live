@@ -5,10 +5,10 @@ A location where individuals can come together and watch a few people stream the
 ## Schedule
 |Day|Time| Topic |
 |-|-|-|
-|Monday|10 am PT|Live Code & Chat|
-|Wednesday|10 am PT| Live Code & Chat|
-|Friday|9:00 am PT| Q & A|
-|Friday|2:30 pm PT| Live Code & Chat (w/ guest)|
+|Monday|10 am UTC-7 |Live Code & Chat|
+|Wednesday|10 am UTC-7| Live Code & Chat|
+|Friday|2:30 pm UTC-7 | Live Code & Chat (w/ guest)|
+|Sunday|9:00 pm UTC-7 | Podcast 
 
 
 ## Plan for the future. 
