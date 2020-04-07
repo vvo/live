@@ -21,8 +21,9 @@ _DATE_ _FULL_DATE_ _TIME_ UTC-7
 
 ## Relevant links
 
-- https://www.twitch.tv/popout/me8bot/chat
-- https://twitter.com/bdougieyo
-- https://github.com/bdougie/live
-- https://mutualfun.io
+- [Twitch](https://www.twitch.tv/popout/me8bot/chat)
+- [Twitter](https://twitter.com/bdougieyo)
+- [MutualFun on GitHub](https://github.com/mutualfun/live)
+- [MutualFun site](https://mutualfun.io)
 - [Spotify Music playlist](https://open.spotify.com/playlist/7zrrIjhj4DuiVC9D6MRVMZ?si=S0QGUYxZTmC278Qw_jMwZg)
+- [Party Corgi Streamer Discord](https://discordapp.com/invite/S9Gdagv)
