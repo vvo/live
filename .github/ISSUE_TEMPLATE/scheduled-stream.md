@@ -6,9 +6,7 @@ labels: 'scheduled-stream'
 assignees: bdougie
 
 ---
-
-## Scheduled Stream
-
+## Show notes:
 _DAY_ _CAL_DATE_ _TIME_ UTC-7
 
 **Agenda:**
@@ -17,7 +15,7 @@ _DAY_ _CAL_DATE_ _TIME_ UTC-7
 **Reminder:** 
 - Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates.
 
-## Relevant Links
+## Relevant links
 
 - https://www.twitch.tv/popout/me8bot/chat
 - https://twitter.com/bdougieyo
