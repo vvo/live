@@ -7,12 +7,15 @@ assignees: bdougie
 
 ---
 ## Show notes:
+
 _DAY_ _CAL_DATE_ _TIME_ UTC-7
 
 **Agenda:**
+
 1. 
 
 **Reminder:** 
+
 - Star and Watch the [mutualfun/live](https://github.com/MutualFun/live/) repo for updates.
 
 ## Relevant links
