@@ -4,12 +4,8 @@
 - [ ] Check Social content
 - [ ] Check GitHub Dashboard
 - [ ] Turn off notifications/phone
-
-### w/Guest:
-
-- [ ] Guest check-in
-- [ ] Check mic level (record audio test to confirm)
 - [ ] Hit record on backup audio
+- [ ] Check mic level (record audio test to confirm)
 
 ## Sample Tweet
 ```
