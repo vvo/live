@@ -1,11 +1,12 @@
 ---
 name: Scheduled Stream
-about: This is a template to quickly get a shareable stream agenda
-title: _ISSUE_NUMBER_: _TOPIC_
-labels: 'scheduled-stream'
-assignees: bdougie
+about: This is a template to quickly get a shareable stream agenda.
+title: _TOPIC/GOAL_FOR_STREAM_
+labels: scheduled-stream, publish
+assignees: ''
 
 ---
+
 ## Show notes:
 
 _DAY_ _CAL_DATE_ _TIME_ UTC-7
